@@ -4,7 +4,7 @@ Hi 👋 My name is Soranan Budwong
 I am studying in the School of Information Technology, Major Software Engineering Mae Fah Luang University, Thailand,
 ---------------------------------------------------------------------------------------------------------------------
 
-I am looking for a dev internship as a Full stack developer, backend dev, or Software tester because I am quite interested in this field. You can see my work on git hub and link in. I am always ready to learn and develop. I would like to have a good experience from this internship to develop myself even more. Thank you.
+I am looking for a dev internship as a  Software Engineering, backend dev, or Software tester because I am quite interested in this field. You can see my work on git hub and link in. I am always ready to learn and develop. I would like to have a good experience from this internship to develop myself even more. Thank you.
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [soranan.work@gmail.com](mailto:soranan.work@gmail.com)
